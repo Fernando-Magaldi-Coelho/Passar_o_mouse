@@ -1,0 +1,15 @@
+@import 'style.css';
+@import 'components/body.css';
+@import 'components/footer.css';
+@import 'components/header.css';
+@import 'components/navbar.css';
+@import 'components/skills.css';
+
+:root{
+    --fundo_pri: #18122B;
+    --fundo_header: #6b5953;
+    --faixa: #be9b81;
+
+    --skills_fundo: #35155D;
+
+}
